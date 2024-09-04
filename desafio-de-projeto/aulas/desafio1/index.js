@@ -14,7 +14,7 @@ if (xp <= 1000) {
     console.log("O herói de nome " + nome + " está no nível de " +  nivel1);
   } 
   
-  else if (xp <= 1001 && xp <= 2000) {
+  else if (xp >= 1001 && xp <= 2000) {
     console.log("O herói de nome " + nome + " está no nível de " +  nivel2);
   } 
   
